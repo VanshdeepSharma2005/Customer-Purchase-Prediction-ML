@@ -147,23 +147,6 @@ Reason:
 
 ---
 
-## Project Structure
-
-```
-Customer-Purchase-Prediction/
-│
-├── Customer_Purchase_Prediction.ipynb
-├── Social_Network_Ads.csv
-├── README.md
-├── requirements.txt
-└── images/
-      ├── correlation_heatmap.png
-      ├── confusion_matrix_rf.png
-      └── model_comparison.png
-```
-
----
-
 ## Installation
 
 Clone the repository
